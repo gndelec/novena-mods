@@ -1,6 +1,6 @@
 # novena-mods
 
-Mods for the [Novena]((https://www.crowdsupply.com/kosagi/novena) open hardware computing platform.
+Mods for the [Novena](https://www.crowdsupply.com/kosagi/novena) open hardware computing platform.
 
 ## Contents
 
