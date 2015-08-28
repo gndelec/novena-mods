@@ -1,6 +1,6 @@
 # Novena Micro Fan Assembly
 
-![A Novena board with the micro fan assembly fitted](/images/fitted.jpg)
+![A Novena board with the micro fan assembly fitted](/NMFA-01/images/fitted.jpg)
 
 An ultra-slim micro fan complete with fixings for securing over the Novena's Freescale SoC.
 
@@ -36,19 +36,19 @@ In addition to the acrylic part the NMFA-01 is made up from:
 
 - Remove the two hex screws that are either side of the Freescale SoC (read heatsink).
 
-![Freescale SoC](/images/assembly_1.jpg)
+![Freescale SoC](/NMFA-01/images/assembly_1.jpg)
 
 - Fit the hex standoffs in place of the screws, but be careful not to over-tighten.
 
-![Standoffs fitted](/images/assembly_2.jpg)
+![Standoffs fitted](/NMFA-01/images/assembly_2.jpg)
 
 - Place the fibre washers on top of the stand-offs, locate the fan assembly on top and secure in place with the M2.5 countersunk srews.
 
-![Fan fitted in place](/images/fitted.jpg)
+![Fan fitted in place](/NMFA-01/images/fitted.jpg)
 
 - Plug the power connector into the 5V output on the front panel PCB.
 
-![Connector inserted](/images/assembly_4.jpg)
+![Connector inserted](/NMFA-01/images/assembly_4.jpg)
 
 **WARNING: Please note that due to the minimal clearance this must only be used with the screen/lid open and use with it closed could result in hardware failure!**
 
